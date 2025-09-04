@@ -28,7 +28,7 @@ Student Information
 
 • [Activity 2.3](Activity2.3.html)
 
-[Activity 1-2]([https://<your-username>.github.io/first-web-page/Activity1-2.html](https://github.com/Cabatuando/Cabatuando-Rainier-Ace-BSCPE-4th-year-/blob/a5ddffdefe2588dfa3fd7ac3f886664048b40838/README.md))
+[Activity 1.2](https://github.com/Sorosoro04/first-web-page/blob/d4509b887661dd12d1916d68383ac4e201541fc7/Activity%201.1.html)
 
 ---
 
