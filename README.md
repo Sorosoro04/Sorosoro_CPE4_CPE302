@@ -18,7 +18,7 @@ Student Information
 
 📂 Table of Contents
 
-• [Activity 1.1]([Activity1-1.html](https://github.com/Sorosoro04/first-web-page/blob/1cbf9e46c6c0bafca4bbadeb927d980e9c6ce6c1/Activity%201.1.html)) 
+• [Activity 1.1](Activity1.1.html) 
 
 • [Activity 1.2](Activity1-2.html)
 
