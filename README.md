@@ -13,3 +13,13 @@ Student Information
 • Block: A-B
 
 • School Year: 2025 – 2026
+
+---
+
+📂 Table of Contents
+
+• Activity1-1.html
+
+• Activity1-2.html
+
+• Activity2.1_Resume.html
