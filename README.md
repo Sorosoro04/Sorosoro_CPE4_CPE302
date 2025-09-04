@@ -24,5 +24,11 @@ Student Information
 
 • [Activity 2.1](Activity2.1_Resume.html)
 
+• [Activity 2.2](Activity2.2.html)
 
+• [Activity 2.3](Activity2.3.html)
+
+---
+
+✅ Click the link above to view the HTML files.
 
