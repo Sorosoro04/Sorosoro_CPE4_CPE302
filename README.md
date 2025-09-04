@@ -18,8 +18,11 @@ Student Information
 
 📂 Table of Contents
 
-• Activity1-1.html
+• [Activity 1.1](Activity1-1.html)
 
-• Activity1-2.html
+• [Activity 1.2](Activity1-2.html)
 
-• Activity2.1_Resume.html
+• [Activity 2.1](Activity2.1_Resume.html)
+
+
+
