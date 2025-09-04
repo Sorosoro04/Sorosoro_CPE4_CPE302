@@ -22,11 +22,11 @@ Student Information
 
 • [Activity 1.2](https://github.com/Sorosoro04/first-web-page/blob/afc3e5991494178ab25a611a8322d6ee1752a037/Activity%201.2.html)
 
-• [Activity 2.1]([Activity2.1_Resume.html](https://github.com/Sorosoro04/first-web-page/blob/afc3e5991494178ab25a611a8322d6ee1752a037/Activity%202.1.html))
+• [Activity 2.1](https://github.com/Sorosoro04/first-web-page/blob/afc3e5991494178ab25a611a8322d6ee1752a037/Activity%202.1.html)
 
-• [Activity 2.2]([Activity2.2.html](https://github.com/Sorosoro04/first-web-page/blob/afc3e5991494178ab25a611a8322d6ee1752a037/Activity%202.2.html))
+• [Activity 2.2](https://github.com/Sorosoro04/first-web-page/blob/afc3e5991494178ab25a611a8322d6ee1752a037/Activity%202.2.html)
 
-• [Activity 2.3]([Activity2.3.html](https://github.com/Sorosoro04/first-web-page/blob/afc3e5991494178ab25a611a8322d6ee1752a037/Activity%202.3.html))
+• [Activity 2.3](https://github.com/Sorosoro04/first-web-page/blob/afc3e5991494178ab25a611a8322d6ee1752a037/Activity%202.3.html)
 
 ---
 
