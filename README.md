@@ -28,6 +28,8 @@ Student Information
 
 • [Activity 2.3](https://github.com/Sorosoro04/first-web-page/blob/afc3e5991494178ab25a611a8322d6ee1752a037/Activity%202.3.html)
 
+• [Activity 3.1](https://github.com/Sorosoro04/Sorosoro_CPE4_CPE302/blob/4ecfd7c46febb7949a78b934e8aba0bd3c02d011/Activity%203.1.html)
+
 ---
 
 ✅ Click the link above to view the HTML files.
