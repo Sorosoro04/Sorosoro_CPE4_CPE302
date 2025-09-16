@@ -32,6 +32,8 @@ Student Information
 
 • [Activity 3.2](https://github.com/Sorosoro04/Sorosoro_CPE4_CPE302/tree/e2881ddd004d15df2457d4e41aac2269b6c8ac09/Activity%203.2)
 
+• [Activity 3.3](https://github.com/Sorosoro04/Sorosoro_CPE4_CPE302/blob/97e417219e7fd4bcb4c15ba6aecffea54cfa5b0a/Activity%203.3.html)
+
 ---
 
 ✅ Click the link above to view the HTML files.
